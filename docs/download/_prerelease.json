@@ -1,81 +1,81 @@
 {
-  "version": "1.6.4",
-  "name": "v1.6.4",
-  "created": "2024-07-25T13:13:55Z",
-  "published": "2024-07-25T13:29:01Z",
+  "version": "1.5.18",
+  "name": "v1.5.18",
+  "created": "2024-02-22T23:03:55Z",
+  "published": "2024-02-22T23:16:35Z",
   "assets": [
     {
       "name": "changelog.md",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.6.4/changelog.md",
-      "checksum": "41117a9bc0328fbe1d15d3a6a0fc63bc0e904092d3b294fc4a3e906b3120f1a7",
-      "size": 2341
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.5.18/changelog.md",
+      "checksum": "09c6dd5b50e8b69bfbf91fca341a4f6253b52ec1adc01d35cf699813f2610af9",
+      "size": 7389
     },
     {
-      "name": "quarto-1.6.4-checksums.txt",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.6.4/quarto-1.6.4-checksums.txt",
-      "checksum": "d59c6a04dd24d6135672e902c5fbc11ec587bbda3e994c7b5fc61fda20e78148",
-      "size": 931
+      "name": "quarto-1.5.18-checksums.txt",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.5.18/quarto-1.5.18-checksums.txt",
+      "checksum": "0d88a2ac3869b78d963b8db7fc24909f581b1d160d215c26a3aa5ba200c1cebb",
+      "size": 941
     },
     {
-      "name": "quarto-1.6.4-linux-amd64.deb",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.6.4/quarto-1.6.4-linux-amd64.deb",
-      "checksum": "6c2e46366f506bb2fdbc46e7475893fae5effe845e197b250bb4dc1f98313b03",
-      "size": 125024834
+      "name": "quarto-1.5.18-linux-amd64.deb",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.5.18/quarto-1.5.18-linux-amd64.deb",
+      "checksum": "5ba26acdce259b334f130b2dc0ce129786f343cd90308e62972a0fddbf65b779",
+      "size": 117274006
     },
     {
-      "name": "quarto-1.6.4-linux-amd64.tar.gz",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.6.4/quarto-1.6.4-linux-amd64.tar.gz",
-      "checksum": "ca82f5dcfcfeea80ce83af4a3401e10967a62064e7f256c0a7a365e615e40d89",
-      "size": 126420387
+      "name": "quarto-1.5.18-linux-amd64.tar.gz",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.5.18/quarto-1.5.18-linux-amd64.tar.gz",
+      "checksum": "3e714d1ce8f7bcd6c3ea85d425ffd95c58106a0c7c6e53be1535c1c6b46ef08e",
+      "size": 118574797
     },
     {
-      "name": "quarto-1.6.4-linux-arm64.deb",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.6.4/quarto-1.6.4-linux-arm64.deb",
-      "checksum": "8584b72b10c66bf8f49b78cc934e6f31bddd8000886a26f39b5c2d0d048bd2f3",
-      "size": 128858928
+      "name": "quarto-1.5.18-linux-arm64.deb",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.5.18/quarto-1.5.18-linux-arm64.deb",
+      "checksum": "03c3899097b2df339cbb1692f477f04913ece1c11a7a61312f6d64c05c238bb5",
+      "size": 118019482
     },
     {
-      "name": "quarto-1.6.4-linux-arm64.tar.gz",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.6.4/quarto-1.6.4-linux-arm64.tar.gz",
-      "checksum": "12bbdebc51df3e7f259e4b12e09002b2d4e55cd681d2c1d256efdfbff1b0f736",
-      "size": 130073112
+      "name": "quarto-1.5.18-linux-arm64.tar.gz",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.5.18/quarto-1.5.18-linux-arm64.tar.gz",
+      "checksum": "073429421999d2881ae43e059cd4e8c34e8932a219fdb20c5802534e74cac9c8",
+      "size": 119184895
     },
     {
-      "name": "quarto-1.6.4-linux-rhel7-amd64.tar.gz",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.6.4/quarto-1.6.4-linux-rhel7-amd64.tar.gz",
-      "checksum": "59ad19dca33eb14109d12cdf9b3171dcf689f5499c15e379c301bcef1355101c",
-      "size": 129021776
+      "name": "quarto-1.5.18-linux-rhel7-amd64.tar.gz",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.5.18/quarto-1.5.18-linux-rhel7-amd64.tar.gz",
+      "checksum": "7415e09f5354554a57b3bac772762b5510a99f3b5752c462f9ea8bef406ed2e9",
+      "size": 118968317
     },
     {
-      "name": "quarto-1.6.4-macos.pkg",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.6.4/quarto-1.6.4-macos.pkg",
-      "checksum": "8f907f96e95468a0fb9f1ec7041e7c47114f54d12aa503f0b956a59a11a8b33f",
-      "size": 206356708
+      "name": "quarto-1.5.18-macos.pkg",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.5.18/quarto-1.5.18-macos.pkg",
+      "checksum": "db07fdb6eff6984d5419d5cc2094a0300021c411b2fc9b315d586621a65e4adc",
+      "size": 195279994
     },
     {
-      "name": "quarto-1.6.4-macos.tar.gz",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.6.4/quarto-1.6.4-macos.tar.gz",
-      "checksum": "bb3fb98136f6a446b825be5bedb58c8a41fcd6a08d83716f35ca6a7f58274b26",
-      "size": 206207904
+      "name": "quarto-1.5.18-macos.tar.gz",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.5.18/quarto-1.5.18-macos.tar.gz",
+      "checksum": "1cd2ac8b06c0db20fdbe2117b284f66385d506ae1d318179d90dfdbee1bcdcff",
+      "size": 195130942
     },
     {
-      "name": "quarto-1.6.4-win.msi",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.6.4/quarto-1.6.4-win.msi",
-      "checksum": "0482fa56e1a39842df344b0622e7f193fbbacade7086ec365558dfde4c21f3ed",
-      "size": 119209984
+      "name": "quarto-1.5.18-win.msi",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.5.18/quarto-1.5.18-win.msi",
+      "checksum": "25226552c0d87fd3f613d20a865209e4fac497cae2aeea81413d071086a0814c",
+      "size": 114339840
     },
     {
-      "name": "quarto-1.6.4-win.zip",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.6.4/quarto-1.6.4-win.zip",
-      "checksum": "fdc7c2c5ecd445f7e7048284906d2d745596fc6b393da283d4a7bf55ce0ec8a7",
-      "size": 119388506
+      "name": "quarto-1.5.18-win.zip",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.5.18/quarto-1.5.18-win.zip",
+      "checksum": "a5a70369cb48c42a034abbce3c9c9a6ee40d607f220fba781d328328e521d030",
+      "size": 114510010
     },
     {
-      "name": "quarto-1.6.4.tar.gz",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.6.4/quarto-1.6.4.tar.gz",
-      "checksum": "8b41559c4a98784f85dc52c0c7dc1652c2f1e3443a331780aa3bd149b855be8b",
-      "size": 103997039
+      "name": "quarto-1.5.18.tar.gz",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.5.18/quarto-1.5.18.tar.gz",
+      "checksum": "f8245be2319746d061be3f71fd4fff0b399e1ef0473991693d6c49d405eff5d5",
+      "size": 101419143
     }
   ],
-  "description": "All changes included in 1.6:\n\n## `quarto inspect`\n\n- ([#10039](https://github.com/quarto-dev/quarto-cli/issues/10039)): `quarto inspect` properly handles `!expr` tag in metadata.\n- ([#10188](https://github.com/quarto-dev/quarto-cli/issues/10188)): `quarto inspect` properly resolves includes across subdirectory boundaries.\n\n## Lua filters\n\n- ([#10004](https://github.com/quarto-dev/quarto-cli/issues/10004)): Resolve callout titles, theorem names, and `code-summary` content through `quarto_ast_pipeline()` and `process_shortcodes()`.\n- ([#10196](https://github.com/quarto-dev/quarto-cli/issues/10196)): protect against nil values in `float.caption_long`.\n- ([#10328](https://github.com/quarto-dev/quarto-cli/issues/10328)): Interpret subcells as subfloats when subcap\n  count matches subcell count.\n\n## `typst` Format\n\n- ([#10168](https://github.com/quarto-dev/quarto-cli/issues/10168)): support `csl` bibliography style.\n- ([#10181](https://github.com/quarto-dev/quarto-cli/issues/10181)): Remove workaround for image dimensions which is no longer necessary and mishandled image paths with spaces.\n- ([#10217](https://github.com/quarto-dev/quarto-cli/issues/10217)): Explicitly compute units for image dimensions in `typst` format when they're not given.\n- ([#10212](https://github.com/quarto-dev/quarto-cli/issues/10212)): Moves Pandoc variables to the function declaration for the default template.\n\n## Engines\n\n### `julia`\n\n- ([#10225](https://github.com/quarto-dev/quarto-cli/issues/10225)): Handle API change in is_manifest_current in Julia 1.11\n\n## Other Fixes and Improvements\n\n- ([#10162](https://github.com/quarto-dev/quarto-cli/issues/10162)): Use Edge on `macOS` as a Chromium browser when available.\n- ([#10235](https://github.com/quarto-dev/quarto-cli/issues/10235)): Configure the CI schedule trigger to activate exclusively for the upstream repository.\n- ([#10295](https://github.com/quarto-dev/quarto-cli/issues/10235)): fix regression to return error status to shell when `CommandError` is thrown.\n- ([#10332](https://github.com/quarto-dev/quarto-cli/issues/10332)): use `exitWithCleanup` whenever possible instead of `Deno.exit` to clean up temporary resources.\n- ([#10334](https://github.com/quarto-dev/quarto-cli/issues/10334)): fix `author` field rendered incorrectly in dashboards when multiple authors are present.\n"
+  "description": "All changes included in 1.5:\n\n## HTML Format\n\n- ([#6992](https://github.com/quarto-dev/quarto-cli/issues/6992)): Properly render custom license URLs in HTML page appendix,\n- ([#8118](https://github.com/quarto-dev/quarto-cli/issues/8118)): Add support for `body-classes` to add classes to the document body.\n- ([#8311](https://github.com/quarto-dev/quarto-cli/issues/8311)): Correct z-order for margins with no contents\n\n## PDF Format:\n\n- ([#8299](https://github.com/quarto-dev/quarto-cli/issues/8299)): Don't use `rsvg-convert` to convert an SVG to PDF when the PDF is already available; add `use-rsvg-convert` option to control this behavior.\n- ([#8684](https://github.com/quarto-dev/quarto-cli/issues/8684)): Improve detection and automatic installation of locale specific hyphenation files.\n- ([#8711](https://github.com/quarto-dev/quarto-cli/issues/8711)): Enforce rendering of tables as `tabular` environments when custom float environments are present.\n- ([#8841](https://github.com/quarto-dev/quarto-cli/issues/8841)): Do not parse LaTeX table when crossref label doesn't start with `tbl-`.\n\n## Website\n\n- ([#6779](https://github.com/quarto-dev/quarto-cli/issues/6779)): Add support for `logo-href` and `logo-alt` in `sidebar` (books and websites)\n- ([#7318](https://github.com/quarto-dev/quarto-cli/issues/7318)): Don't improperly overwrite page titles\n- ([#8108](https://github.com/quarto-dev/quarto-cli/issues/8108)): Individual pages can suppress breadcrumbs using `bread-crumbs: false`\n- ([#8132](https://github.com/quarto-dev/quarto-cli/issues/8132)): Properly escape urls in the sitemap.\n- ([#8267](https://github.com/quarto-dev/quarto-cli/issues/8267)): Improve responsive layout of `page-footer`\n- ([#8294](https://github.com/quarto-dev/quarto-cli/issues/8294)): Add support for website announcements, using the `announcement` key under `website`.\n- ([#8426](https://github.com/quarto-dev/quarto-cli/issues/8426)): Ignore invalid dates for references when generating Google Scholar data.\n- ([#8544](https://github.com/quarto-dev/quarto-cli/issues/8544)): Fix about page layout when using an `id` to provide contents.\n- ([#8588](https://github.com/quarto-dev/quarto-cli/issues/8588)): Fix display of `bread-crumbs` on pages with banner style title blocks.\n- ([#8851](https://github.com/quarto-dev/quarto-cli/issues/8851)): Don't strip `index.html` from external paths.\n\n## Book\n\n- ([#8737](https://github.com/quarto-dev/quarto-cli/issues/8737)): Fix issue in `page-footer` when url are used in `href` for book's configuration.\n- ([#8814](https://github.com/quarto-dev/quarto-cli/issues/8814)): Fix issue with `bibliography` field using urls in book's configuration.\n\n## OJS\n\n- ([#8327](https://github.com/quarto-dev/quarto-cli/issues/8327)): Issue error messages on console so they're visible in the case of hidden OJS cells.\n\n## Typst\n\n- ([#8539](https://github.com/quarto-dev/quarto-cli/issues/8539)): Support for Typst theorems and their ilk via [typst-theorems](https://github.com/sahasatvik/typst-theorems).\n\n## Jupyter\n\n- ([#4802](https://github.com/quarto-dev/quarto-cli/issues/4802)): Change name of temporary input notebook to avoid accidental overwriting.\n- ([#8433](https://github.com/quarto-dev/quarto-cli/issues/8433)): Escape jupyter widget states that contain `</script>` so they can be embedded in HTML documents.\n- When searching for kernelspecs that match `python`, prefer one one that matches an active Python venv.\n\n## Website Listings\n\n- ([#8147](https://github.com/quarto-dev/quarto-cli/issues/8147)): Ensure that listings don't include the contents of the output directory\n- ([#8435](https://github.com/quarto-dev/quarto-cli/issues/8435)): Improve listing filtering using special characters\n- ([#8627](https://github.com/quarto-dev/quarto-cli/issues/8627)): Localize the text that appears as placeholder in listing filters.\n- ([#8715](https://github.com/quarto-dev/quarto-cli/issues/8715)): Listings should respect `image: false`\n\n## Manuscripts\n\n- ([#8277](https://github.com/quarto-dev/quarto-cli/issues/8277)): Improve notebook ordering within Manuscript projects\n\n## Extensions\n\n- ([#8385](https://github.com/quarto-dev/quarto-cli/issues/8385)): Properly copy project resources when extensions are installed at project level.\n- ([#8547](https://github.com/quarto-dev/quarto-cli/issues/8547)): Support installing extensions from github branch with forward slash in the name.\n\n## Shortcodes\n\n- ([#8316](https://github.com/quarto-dev/quarto-cli/issues/8316)): Add fallback value for the `env` shortcode\n\n## Lightbox Images\n\n- ([#8607](https://github.com/quarto-dev/quarto-cli/issues/8607)): Ensure we properly use the `description` attribute if it is present.\n\n## Filters\n\n- ([#8417](https://github.com/quarto-dev/quarto-cli/issues/8417)): Maintain a single AST element in the output cells when parsing HTML from RawBlock elements.\n- ([#8582](https://github.com/quarto-dev/quarto-cli/issues/8582)): Improve the algorithm for extracting table elements from HTML RawBlock elements.\n\n## Engines\n\n- ([#8388](https://github.com/quarto-dev/quarto-cli/issues/8388)): add `QUARTO_PROJECT_ROOT` and `QUARTO_DOCUMENT_PATH` to the environment when invoking execution engines.\n\n## Article Layout\n\n- ([#8614](https://github.com/quarto-dev/quarto-cli/issues/8614)): Don't improperly forward column classes onto grids.\n\n## Other Fixes\n\n- ([#8119](https://github.com/quarto-dev/quarto-cli/issues/8119)): More intelligently detect when ejs templates are modified during development, improving quality of life during preview.\n- ([#8177](https://github.com/quarto-dev/quarto-cli/issues/8177)): Use an explicit path to `sysctl` when detecting MacOS architecture. (author: @kevinushey)\n- ([#8274](https://github.com/quarto-dev/quarto-cli/issues/8274)): set `LUA_CPATH` to '' if unset, avoiding accidentally loading incompatible system-wide libraries.\n- ([#8401](https://github.com/quarto-dev/quarto-cli/issues/8401)): Ensure that files created with `quarto create <project_name>` have lowercase filenames.\n- ([#8438](https://github.com/quarto-dev/quarto-cli/issues/8438)): Ensure that sub commands properly support logging control flags (e.g. `--quiet`, etc).\n- ([#8422](https://github.com/quarto-dev/quarto-cli/issues/8422)): Improve dashboard validation and sauto-completion support for external tools\n- ([#8486](https://github.com/quarto-dev/quarto-cli/issues/8486)): Improve arrow theme differentation of Keywords and Control Flow elements\n- ([#8524](https://github.com/quarto-dev/quarto-cli/issues/8524)): Improve detection of R environment which configuring Binder using 'quarto use'. Check for lock files, pre and post render scripts that use R.\n- ([#8540](https://github.com/quarto-dev/quarto-cli/issues/8540)): Allow title to be specifed separately when creating a project\n- ([#8652](https://github.com/quarto-dev/quarto-cli/issues/8652)): Make code cell detection in IDE tooling consistent across editor modes.\n- ([#8779](https://github.com/quarto-dev/quarto-cli/issues/8779)): Resolve shortcode includes before engine and target determination.\n- Add support for `{{< lipsum >}}` shortcode, which is useful for emitting placeholder text. Specify a specific number of paragraphs (`{{< lipsum 3 >}}`).\n- Increase v8's max heap size by default, to avoid out-of-memory errors when rendering large documents (also cf. https://github.com/denoland/deno/issues/18935).\n"
 }
